@@ -1,2 +1,4 @@
 # streamlit_practise
-This was a simple classifier made with ML and streamlit
+A simple webapp made with Streamlit, with UI for selecting Plant features and predicting it's class as per IRIS dataset.
+
+Used a randomforestclassifier imported from SkLearn.
